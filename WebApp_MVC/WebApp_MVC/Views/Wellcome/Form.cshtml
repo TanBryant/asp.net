@@ -1,0 +1,21 @@
+﻿ 
+@{
+    ViewData["Title"] = "Tinh Tong A + b";
+}
+<form>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">A</label>
+    <input type="number" class="form-control" id="exampleInputEmail1" name="a" value="@ViewData["a"]" aria-describedby="emailHelp">
+     
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">B</label>
+        <input type="number" class="form-control" name="b" value="@ViewData["b"]" id="exampleInputPassword1">
+  </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Tong</label>
+        <input type="number" value="@ViewData["tong"]" class="form-control" id="exampleInputPassword1">
+  </div>
+  
+</form>

@@ -1,0 +1,21 @@
+﻿@model CategoryViewModel
+<h1>Thêm mới danh mục sản phẩm </h1>
+<h3 class="text-danger">
+    @{
+        var message = ViewBag.Message;
+    }
+</h3>
+<div>
+    <form class="" asp-action="Insert" method="post">
+       <div>
+            <label for="CategoryResponse.Name">Tên danh mục</label>
+            <input class="form-control" type="text" id="CategoryResponse.Name" name="CategoryResponse.Name" required />
+       </div>
+       <div>
+           <button class="btn btn-success" type="submit">
+                Thêm mới
+           </button>
+           <a class="btn btn-danger" asp-action="Index">Quay lại</a>
+       </div>
+    </form>
+</div>

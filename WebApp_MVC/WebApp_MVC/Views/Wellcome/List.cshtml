@@ -1,0 +1,30 @@
+﻿ 
+@model LopHocViewModel
+@{
+	ViewData["Title"] = "Quản lý lớp";
+}
+
+<div>
+	<a asp-controller="Wellcome" asp-action="AddLopHoc" class="btn btn-outline-primary">Thêm mới</a>
+</div>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Mã lớp</th>
+			<th>Tên lớp</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var lop in Model.ListLopHoc)
+		{
+			<tr>
+				<td>@lop.Id</td>
+				<td>@lop.TenLopHoc</td>
+				<td>
+					<button class="btn btn-outline-success">Sửa</button>
+					<button class="btn btn-outline-danger">Xoá</button>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

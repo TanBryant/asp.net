@@ -1,0 +1,12 @@
+﻿
+@model CategoryViewModel
+<h2>
+    Bạn có chăc là muốn xóa danh mục này không @(Model.CategoryResponse.Name)?
+    </h2>
+    <div>
+        <form asp-action="Delete" method="post"> 
+            <input type="hidden" value="@Model.CategoryResponse.Id" name="CategoryResponse.Id"/>
+            <button class="btn btn-outline-success" type="submit">Đồng ý</button>
+        <a class="btn btn-outline-primary" asp-controller="Category" asp-action="Index">Bo qua</a>
+        </form>
+    </div>

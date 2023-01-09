@@ -1,0 +1,19 @@
+﻿    @model CategoryViewModel
+<h1>
+    Câp nhập thông tin danh mục 
+</h1>
+<div class="alert alert-danger">
+   
+     
+  </div>
+<div>
+    <form  method="post" asp-action="Update">
+        <label for="CategoryResponse.Name">Tên danh mục</label>
+        <input value ="@Model.CategoryResponse.Id" required  type="hidden" name="CategoryResponse.Id" id="CategoryResponse.Id" />
+        <input value ="@Model.CategoryResponse.Name" class="form-control" required type="text" name="CategoryResponse.Name" id="CategoryResponse.Name" />
+        <div>
+            <button class="btn btn-success" type="submit">Cập nhập ngay</button>
+            <a class="btn btn-danger" asp-action="Index" >Quay lại</a>
+        </div>
+    </form>
+</div>

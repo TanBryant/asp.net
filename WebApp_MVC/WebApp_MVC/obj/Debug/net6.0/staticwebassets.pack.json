@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApp_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\240b75f7-730f-4281-bf58-db4754bdf82c.png",
+      "PackagePath": "staticwebassets\\avatar\\240b75f7-730f-4281-bf58-db4754bdf82c.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\7835bb88-1986-4a19-a0d8-48c75785bcc3.png",
+      "PackagePath": "staticwebassets\\avatar\\7835bb88-1986-4a19-a0d8-48c75785bcc3.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\8c7f9d1a-1823-402b-b884-c4e793ed86fa.png",
+      "PackagePath": "staticwebassets\\avatar\\8c7f9d1a-1823-402b-b884-c4e793ed86fa.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\ab24c901-b69e-414c-ae71-b3138481a4b0.png",
+      "PackagePath": "staticwebassets\\avatar\\ab24c901-b69e-414c-ae71-b3138481a4b0.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\c8e941e9-fac7-4865-ac3a-4e8719c4661d.png",
+      "PackagePath": "staticwebassets\\avatar\\c8e941e9-fac7-4865-ac3a-4e8719c4661d.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\avatar\\fa103be8-6735-4d50-b5cc-df5b7fde2298.png",
+      "PackagePath": "staticwebassets\\avatar\\fa103be8-6735-4d50-b5cc-df5b7fde2298.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Core\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApp_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApp_MVC.props",
+      "PackagePath": "build\\WebApp_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp_MVC.props",
+      "PackagePath": "buildMultiTargeting\\WebApp_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApp_MVC.props",
+      "PackagePath": "buildTransitive\\WebApp_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

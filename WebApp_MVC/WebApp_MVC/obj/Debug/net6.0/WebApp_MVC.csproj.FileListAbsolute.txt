@@ -1,0 +1,375 @@
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.staticwebassets.runtime.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.exe
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.deps.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.WebApp_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp_MVC.props
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_MVC.props
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp_MVC.props
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\bundle\WebApp_MVC.styles.css
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApp_MVC.bundle.scp.css
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\refint\WebApp_MVC.dll
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\ref\WebApp_MVC.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\refint\WebApp_MVC.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.pdb
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.staticwebassets.runtime.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.exe
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.deps.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.runtimeconfig.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.pdb
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Humanizer.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.AssemblyReference.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfo.cs
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\bundle\WebApp_MVC.styles.css
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApp_MVC.bundle.scp.css
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CopyComplete
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.genruntimeconfig.cache
+D:\ASP.NET CORE\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\ref\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.exe
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.deps.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.runtimeconfig.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.WebApp_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\bundle\WebApp_MVC.styles.css
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApp_MVC.bundle.scp.css
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\refint\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\WebApp_MVC\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\ref\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.exe
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.deps.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.runtimeconfig.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.WebApp_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp_MVC.props
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\bundle\WebApp_MVC.styles.css
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApp_MVC.bundle.scp.css
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\refint\WebApp_MVC.dll
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.pdb
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\GitHub\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\ref\WebApp_MVC.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\appsettings.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.staticwebassets.runtime.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.exe
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.deps.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.runtimeconfig.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\WebApp_MVC.pdb
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Humanizer.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.AssemblyReference.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfoInputs.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.AssemblyInfo.cs
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.RazorAssemblyInfo.cs
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.WebApp_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp_MVC.props
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_MVC.props
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp_MVC.props
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\bundle\WebApp_MVC.styles.css
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\scopedcss\projectbundle\WebApp_MVC.bundle.scp.css
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.csproj.CopyComplete
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\refint\WebApp_MVC.dll
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.pdb
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\WebApp_MVC.genruntimeconfig.cache
+F:\ASP.NET Core\ASP.Net\WebApp_MVC\WebApp_MVC\obj\Debug\net6.0\ref\WebApp_MVC.dll
